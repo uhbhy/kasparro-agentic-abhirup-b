@@ -1,0 +1,57 @@
+{
+  "title": "Comparison: GlowBoost Vitamin C Serum vs RadiantC Booster",
+  "product_a": {
+    "product_name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_type": ["Oily", "Combination"],
+    "key_ingredients": ["Vitamin C", "Hyaluronic Acid"],
+    "benefits": ["Brightening", "Fades dark spots"],
+    "how_to_use": "Apply 2–3 drops in the morning before sunscreen",
+    "side_effects": "Mild tingling for sensitive skin",
+    "price_inr": 699
+  },
+  "product_b": {
+    "product_name": "RadiantC Booster",
+    "key_ingredients": ["Vitamin C", "Niacinamide"],
+    "benefits": ["Brightening", "Evens tone"],
+    "price_inr": 799
+  },
+  "ingredient_comparison": [
+    {
+      "ingredient": "Hyaluronic Acid",
+      "in_a": true,
+      "in_b": false
+    },
+    {
+      "ingredient": "Niacinamide",
+      "in_a": false,
+      "in_b": true
+    },
+    {
+      "ingredient": "Vitamin C",
+      "in_a": true,
+      "in_b": true
+    }
+  ],
+  "benefits_comparison": [
+    {
+      "benefit": "Brightening",
+      "in_a": true,
+      "in_b": true
+    },
+    {
+      "benefit": "Evens tone",
+      "in_a": false,
+      "in_b": true
+    },
+    {
+      "benefit": "Fades dark spots",
+      "in_a": true,
+      "in_b": false
+    }
+  ],
+  "price_comparison": {
+    "a": 699,
+    "b": 799
+  }
+}
