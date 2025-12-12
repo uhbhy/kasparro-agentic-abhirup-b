@@ -1,0 +1,14 @@
+{
+  "faq": {
+    "fields": ["title", "questions"],
+    "rules": {
+      "questions_min": 5
+    }
+  },
+  "product_page": {
+    "fields": ["title", "summary", "ingredients", "benefits_block", "usage", "safety", "price"]
+  },
+  "comparison_page": {
+    "fields": ["title", "product_a", "product_b", "ingredient_comparison", "benefits_comparison", "price_comparison"]
+  }
+}
